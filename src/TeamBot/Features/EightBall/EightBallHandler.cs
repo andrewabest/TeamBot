@@ -36,6 +36,7 @@ namespace TeamBot.Features.EightBall
                 "My sources say no",
                 "Outlook not so good",
                 "Very doubtful",
+                "Steve sucks",
             };
 
             var random = new Random();
